@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\5PizzaIngredients\bin\Debug\5PizzaIngredients.exe.config
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\5PizzaIngredients\bin\Debug\5PizzaIngredients.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\5PizzaIngredients\bin\Debug\5PizzaIngredients.pdb
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\5PizzaIngredients\obj\Debug\5PizzaIngredients.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\5PizzaIngredients\obj\Debug\5PizzaIngredients.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\5PizzaIngredients\obj\Debug\5PizzaIngredients.pdb

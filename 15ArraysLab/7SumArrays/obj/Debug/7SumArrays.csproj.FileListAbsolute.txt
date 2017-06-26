@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\7SumArrays\bin\Debug\7SumArrays.exe.config
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\7SumArrays\bin\Debug\7SumArrays.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\7SumArrays\bin\Debug\7SumArrays.pdb
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\7SumArrays\obj\Debug\7SumArrays.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\7SumArrays\obj\Debug\7SumArrays.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\7SumArrays\obj\Debug\7SumArrays.pdb

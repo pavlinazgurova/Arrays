@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\2ReverseanArrayofIntegers\bin\Debug\2ReverseanArrayofIntegers.exe.config
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\2ReverseanArrayofIntegers\bin\Debug\2ReverseanArrayofIntegers.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\2ReverseanArrayofIntegers\bin\Debug\2ReverseanArrayofIntegers.pdb
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\2ReverseanArrayofIntegers\obj\Debug\2ReverseanArrayofIntegers.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\2ReverseanArrayofIntegers\obj\Debug\2ReverseanArrayofIntegers.pdb

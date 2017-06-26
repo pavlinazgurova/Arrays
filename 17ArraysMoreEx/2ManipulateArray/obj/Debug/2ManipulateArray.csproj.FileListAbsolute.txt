@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\2ManipulateArray\bin\Debug\2ManipulateArray.exe.config
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\2ManipulateArray\bin\Debug\2ManipulateArray.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\2ManipulateArray\bin\Debug\2ManipulateArray.pdb
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\2ManipulateArray\obj\Debug\2ManipulateArray.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\2ManipulateArray\obj\Debug\2ManipulateArray.pdb
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\2ManipulateArray\obj\Debug\2ManipulateArray.csprojResolveAssemblyReference.cache

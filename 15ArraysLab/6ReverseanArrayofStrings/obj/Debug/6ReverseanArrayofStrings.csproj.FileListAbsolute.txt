@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\6ReverseanArrayofStrings\bin\Debug\6ReverseanArrayofStrings.exe.config
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\6ReverseanArrayofStrings\bin\Debug\6ReverseanArrayofStrings.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\6ReverseanArrayofStrings\bin\Debug\6ReverseanArrayofStrings.pdb
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\6ReverseanArrayofStrings\obj\Debug\6ReverseanArrayofStrings.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\6ReverseanArrayofStrings\obj\Debug\6ReverseanArrayofStrings.pdb

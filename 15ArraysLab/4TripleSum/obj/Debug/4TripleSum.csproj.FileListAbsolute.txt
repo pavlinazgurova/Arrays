@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\4TripleSum\bin\Debug\4TripleSum.exe.config
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\4TripleSum\bin\Debug\4TripleSum.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\4TripleSum\bin\Debug\4TripleSum.pdb
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\4TripleSum\obj\Debug\4TripleSum.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\4TripleSum\obj\Debug\4TripleSum.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\4TripleSum\obj\Debug\4TripleSum.pdb

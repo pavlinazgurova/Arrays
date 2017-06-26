@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\11EqualSums\bin\Debug\11EqualSums.exe.config
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\11EqualSums\bin\Debug\11EqualSums.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\11EqualSums\bin\Debug\11EqualSums.pdb
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\11EqualSums\obj\Debug\11EqualSums.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\11EqualSums\obj\Debug\11EqualSums.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\11EqualSums\obj\Debug\11EqualSums.pdb

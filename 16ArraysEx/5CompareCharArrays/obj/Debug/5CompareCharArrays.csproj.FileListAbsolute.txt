@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\5CompareCharArrays\bin\Debug\5CompareCharArrays.exe.config
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\5CompareCharArrays\bin\Debug\5CompareCharArrays.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\5CompareCharArrays\bin\Debug\5CompareCharArrays.pdb
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\5CompareCharArrays\obj\Debug\5CompareCharArrays.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\5CompareCharArrays\obj\Debug\5CompareCharArrays.pdb

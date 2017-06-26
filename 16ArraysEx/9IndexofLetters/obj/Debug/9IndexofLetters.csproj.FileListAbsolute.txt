@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\9IndexofLetters\bin\Debug\9IndexofLetters.exe.config
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\9IndexofLetters\bin\Debug\9IndexofLetters.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\9IndexofLetters\bin\Debug\9IndexofLetters.pdb
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\9IndexofLetters\obj\Debug\9IndexofLetters.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\9IndexofLetters\obj\Debug\9IndexofLetters.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\9IndexofLetters\obj\Debug\9IndexofLetters.pdb

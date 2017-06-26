@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\8CondenseArraytoNumber\bin\Debug\8CondenseArraytoNumber.exe.config
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\8CondenseArraytoNumber\bin\Debug\8CondenseArraytoNumber.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\8CondenseArraytoNumber\bin\Debug\8CondenseArraytoNumber.pdb
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\8CondenseArraytoNumber\obj\Debug\8CondenseArraytoNumber.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\8CondenseArraytoNumber\obj\Debug\8CondenseArraytoNumber.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\8CondenseArraytoNumber\obj\Debug\8CondenseArraytoNumber.pdb

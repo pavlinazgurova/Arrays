@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\3SafeManipulation\bin\Debug\3SafeManipulation.exe.config
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\3SafeManipulation\bin\Debug\3SafeManipulation.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\3SafeManipulation\bin\Debug\3SafeManipulation.pdb
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\3SafeManipulation\obj\Debug\3SafeManipulation.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\3SafeManipulation\obj\Debug\3SafeManipulation.pdb

@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\8MostFrequentNumber\bin\Debug\8MostFrequentNumber.exe.config
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\8MostFrequentNumber\bin\Debug\8MostFrequentNumber.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\8MostFrequentNumber\bin\Debug\8MostFrequentNumber.pdb
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\8MostFrequentNumber\obj\Debug\8MostFrequentNumber.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\8MostFrequentNumber\obj\Debug\8MostFrequentNumber.pdb

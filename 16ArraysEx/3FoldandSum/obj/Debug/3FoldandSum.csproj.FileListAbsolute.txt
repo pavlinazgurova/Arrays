@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\3FoldandSum\bin\Debug\3FoldandSum.exe.config
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\3FoldandSum\bin\Debug\3FoldandSum.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\3FoldandSum\bin\Debug\3FoldandSum.pdb
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\3FoldandSum\obj\Debug\3FoldandSum.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\3FoldandSum\obj\Debug\3FoldandSum.pdb

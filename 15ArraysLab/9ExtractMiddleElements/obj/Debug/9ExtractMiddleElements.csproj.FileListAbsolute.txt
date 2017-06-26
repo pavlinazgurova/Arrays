@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\9ExtractMiddleElements\bin\Debug\9ExtractMiddleElements.exe.config
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\9ExtractMiddleElements\bin\Debug\9ExtractMiddleElements.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\9ExtractMiddleElements\bin\Debug\9ExtractMiddleElements.pdb
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\9ExtractMiddleElements\obj\Debug\9ExtractMiddleElements.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\9ExtractMiddleElements\obj\Debug\9ExtractMiddleElements.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\9ExtractMiddleElements\obj\Debug\9ExtractMiddleElements.pdb

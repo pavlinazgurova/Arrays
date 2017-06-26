@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\9JumpAround\bin\Debug\9JumpAround.exe.config
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\9JumpAround\bin\Debug\9JumpAround.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\9JumpAround\bin\Debug\9JumpAround.pdb
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\9JumpAround\obj\Debug\9JumpAround.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\9JumpAround\obj\Debug\9JumpAround.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\9JumpAround\obj\Debug\9JumpAround.pdb

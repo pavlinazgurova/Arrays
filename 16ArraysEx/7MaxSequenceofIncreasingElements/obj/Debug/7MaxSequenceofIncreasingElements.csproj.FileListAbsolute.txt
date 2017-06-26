@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\7MaxSequenceofIncreasingElements\bin\Debug\7MaxSequenceofIncreasingElements.exe.config
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\7MaxSequenceofIncreasingElements\bin\Debug\7MaxSequenceofIncreasingElements.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\7MaxSequenceofIncreasingElements\bin\Debug\7MaxSequenceofIncreasingElements.pdb
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\7MaxSequenceofIncreasingElements\obj\Debug\7MaxSequenceofIncreasingElements.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\7MaxSequenceofIncreasingElements\obj\Debug\7MaxSequenceofIncreasingElements.pdb
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\7MaxSequenceofIncreasingElements\obj\Debug\7MaxSequenceofIncreasingElements.csprojResolveAssemblyReference.cache

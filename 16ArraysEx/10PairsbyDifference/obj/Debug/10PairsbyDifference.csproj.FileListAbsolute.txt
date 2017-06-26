@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\10PairsbyDifference\bin\Debug\10PairsbyDifference.exe.config
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\10PairsbyDifference\bin\Debug\10PairsbyDifference.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\10PairsbyDifference\bin\Debug\10PairsbyDifference.pdb
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\10PairsbyDifference\obj\Debug\10PairsbyDifference.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\10PairsbyDifference\obj\Debug\10PairsbyDifference.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\10PairsbyDifference\obj\Debug\10PairsbyDifference.pdb

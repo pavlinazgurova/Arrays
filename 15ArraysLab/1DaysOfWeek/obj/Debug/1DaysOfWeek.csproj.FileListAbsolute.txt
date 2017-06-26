@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\1DaysOfWeek\bin\Debug\1DaysOfWeek.exe.config
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\1DaysOfWeek\bin\Debug\1DaysOfWeek.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\1DaysOfWeek\bin\Debug\1DaysOfWeek.pdb
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\1DaysOfWeek\obj\Debug\1DaysOfWeek.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\1DaysOfWeek\obj\Debug\1DaysOfWeek.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\1DaysOfWeek\obj\Debug\1DaysOfWeek.pdb

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\1LargestCommonEnd\bin\Debug\1LargestCommonEnd.exe.config
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\1LargestCommonEnd\bin\Debug\1LargestCommonEnd.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\1LargestCommonEnd\bin\Debug\1LargestCommonEnd.pdb
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\1LargestCommonEnd\obj\Debug\1LargestCommonEnd.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\1LargestCommonEnd\obj\Debug\1LargestCommonEnd.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\1LargestCommonEnd\obj\Debug\1LargestCommonEnd.pdb

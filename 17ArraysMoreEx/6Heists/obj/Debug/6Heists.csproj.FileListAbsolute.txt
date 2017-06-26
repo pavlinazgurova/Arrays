@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\6Heists\bin\Debug\6Heists.exe.config
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\6Heists\bin\Debug\6Heists.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\6Heists\bin\Debug\6Heists.pdb
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\6Heists\obj\Debug\6Heists.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\6Heists\obj\Debug\6Heists.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\6Heists\obj\Debug\6Heists.pdb

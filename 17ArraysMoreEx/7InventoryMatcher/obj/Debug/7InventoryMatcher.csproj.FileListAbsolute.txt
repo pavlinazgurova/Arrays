@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\7InventoryMatcher\bin\Debug\7InventoryMatcher.exe.config
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\7InventoryMatcher\bin\Debug\7InventoryMatcher.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\7InventoryMatcher\bin\Debug\7InventoryMatcher.pdb
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\7InventoryMatcher\obj\Debug\7InventoryMatcher.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\7InventoryMatcher\obj\Debug\7InventoryMatcher.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\7InventoryMatcher\obj\Debug\7InventoryMatcher.pdb

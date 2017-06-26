@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\1ArrayStatistics\bin\Debug\1ArrayStatistics.exe.config
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\1ArrayStatistics\bin\Debug\1ArrayStatistics.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\1ArrayStatistics\bin\Debug\1ArrayStatistics.pdb
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\1ArrayStatistics\obj\Debug\1ArrayStatistics.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\1ArrayStatistics\obj\Debug\1ArrayStatistics.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\1ArrayStatistics\obj\Debug\1ArrayStatistics.pdb

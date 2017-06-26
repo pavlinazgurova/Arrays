@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\4GrabandGo\bin\Debug\4GrabandGo.exe.config
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\4GrabandGo\bin\Debug\4GrabandGo.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\4GrabandGo\bin\Debug\4GrabandGo.pdb
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\4GrabandGo\obj\Debug\4GrabandGo.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\4GrabandGo\obj\Debug\4GrabandGo.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\4GrabandGo\obj\Debug\4GrabandGo.pdb

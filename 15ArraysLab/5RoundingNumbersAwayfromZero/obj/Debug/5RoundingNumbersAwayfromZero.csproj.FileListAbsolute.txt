@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\5RoundingNumbersAwayfromZero\bin\Debug\5RoundingNumbersAwayfromZero.exe.config
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\5RoundingNumbersAwayfromZero\bin\Debug\5RoundingNumbersAwayfromZero.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\5RoundingNumbersAwayfromZero\bin\Debug\5RoundingNumbersAwayfromZero.pdb
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\5RoundingNumbersAwayfromZero\obj\Debug\5RoundingNumbersAwayfromZero.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\5RoundingNumbersAwayfromZero\obj\Debug\5RoundingNumbersAwayfromZero.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\5RoundingNumbersAwayfromZero\obj\Debug\5RoundingNumbersAwayfromZero.pdb

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\6MaxSequenceofEqualElements\bin\Debug\6MaxSequenceofEqualElements.exe.config
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\6MaxSequenceofEqualElements\bin\Debug\6MaxSequenceofEqualElements.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\6MaxSequenceofEqualElements\bin\Debug\6MaxSequenceofEqualElements.pdb
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\6MaxSequenceofEqualElements\obj\Debug\6MaxSequenceofEqualElements.exe
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\6MaxSequenceofEqualElements\obj\Debug\6MaxSequenceofEqualElements.pdb
+D:\Унсс\СофтУни\Tech Module\16ArraysEx\6MaxSequenceofEqualElements\obj\Debug\6MaxSequenceofEqualElements.csprojResolveAssemblyReference.cache

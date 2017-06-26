@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\8UpgradedMatcher\bin\Debug\8UpgradedMatcher.exe.config
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\8UpgradedMatcher\bin\Debug\8UpgradedMatcher.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\8UpgradedMatcher\bin\Debug\8UpgradedMatcher.pdb
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\8UpgradedMatcher\obj\Debug\8UpgradedMatcher.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\8UpgradedMatcher\obj\Debug\8UpgradedMatcher.exe
+D:\Унсс\СофтУни\Tech Module\17ArraysMoreEx\8UpgradedMatcher\obj\Debug\8UpgradedMatcher.pdb

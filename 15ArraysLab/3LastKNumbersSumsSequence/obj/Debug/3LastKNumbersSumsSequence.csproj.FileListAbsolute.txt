@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\3LastKNumbersSumsSequence\bin\Debug\3LastKNumbersSumsSequence.exe.config
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\3LastKNumbersSumsSequence\obj\Debug\3LastKNumbersSumsSequence.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\3LastKNumbersSumsSequence\bin\Debug\3LastKNumbersSumsSequence.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\3LastKNumbersSumsSequence\bin\Debug\3LastKNumbersSumsSequence.pdb
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\3LastKNumbersSumsSequence\obj\Debug\3LastKNumbersSumsSequence.exe
+D:\Унсс\СофтУни\Tech Module\15ArraysLab\3LastKNumbersSumsSequence\obj\Debug\3LastKNumbersSumsSequence.pdb
